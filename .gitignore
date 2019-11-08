@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+ value=raw_input("Enter your name")
+ Age=input("Enter age")
+ print "Your Life has completed %f years"
